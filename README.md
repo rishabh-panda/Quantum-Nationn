@@ -1,4 +1,5 @@
 # The Quantum Repository
+![QiskitLogo](https://user-images.githubusercontent.com/80598737/135030625-6384639a-5b11-4322-878f-5d6cb5dd44d9.png)
 Quantum computing brings together ideas from classical information theory, computer science, and quantum physics. This review aims to summarize not just quantum computing, but the whole subject of quantum information theory. Information can be identified as the most general thing which must propagate from a cause to an effect. It therefore has a fundamentally important role in the science of physics.
 
 ## What is quantum?
@@ -9,5 +10,3 @@ A qubit is the basic unit of information in quantum computing. Qubits play a sim
 
 ## What is quantum computing?
 Quantum computers harness the unique behaviour of quantum physics: such as superposition, entanglement and quantum interference and apply it to computing. This introduces new concepts to traditional programming methods.
-
-![QiskitLogo](https://user-images.githubusercontent.com/80598737/135030625-6384639a-5b11-4322-878f-5d6cb5dd44d9.png)
