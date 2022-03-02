@@ -12,4 +12,4 @@ A qubit is the basic unit of information in quantum computing. Qubits play a sim
 Quantum computers harness the unique behaviour of quantum physics: such as superposition, entanglement and quantum interference and apply it to computing. This introduces new concepts to traditional programming methods.
 
 ## What does this repository contain?
-Fundamentals of Quantum Algorithms implemented using Qiskit at [IBM Quantum Experience](https://quantum-computing.ibm.com/). In this part of my GitHub repo I will be sharing my experiences, daily learnings and accomplishments with regard to this booming technology, known as Quantum Computing.
+Fundamentals of Quantum Algorithms implemented using Qiskit at [IBM Quantum Experience](https://quantum-computing.ibm.com/). In this repository I will be sharing my experiences, daily learnings and accomplishments with regard to this booming technology.
